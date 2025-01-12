@@ -11,11 +11,11 @@
    
 | Система  | Модель |
 | ------------- | ------------- |
-| Prometheus  | Content Cell  |
-| TICK        | Content Cell  |
-| Zabbix        | Content Cell  |
-| VictoriaMetrics        | Content Cell  |
-| Nagios        | Content Cell  |
+| Prometheus  |  pull  |
+| TICK        | push  |
+| Zabbix        | push & pull  |
+| VictoriaMetrics        | push & pull  |
+| Nagios        | pull  |
   
   
   
