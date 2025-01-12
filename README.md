@@ -61,6 +61,8 @@ UDP является менее затратным способом переда
   
 7. Склонировал репозиторий и запустил TICK-стэк:
 
+8. 
+![](https://github.com/Granit16/monitoring_01/blob/main/chronograf_web.png)
 
    
 9. 8
