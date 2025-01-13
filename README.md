@@ -60,16 +60,15 @@ UDP является менее затратным способом переда
    
   
 7. Склонировал репозиторий и запустил TICK-стэк:
-
-8. Веб-интерфейс ПО chronograf:
    
 ![](https://github.com/Granit16/monitoring_01/blob/main/chronograf_web.png)
 
+8. Веб-интерфейс ПО chronograf:
    
-9. dd
-
 ![](https://github.com/Granit16/monitoring_01/blob/main/chronograf_cpu_utilization.png)
 
+   
+9. Метрики, связанные с docker
 
-10. 
-11. 
+![](https://github.com/Granit16/monitoring_01/blob/main/chronograf_docker.png)
+ 
